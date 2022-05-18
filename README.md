@@ -1,5 +1,4 @@
 # Hi, I am Jakob! 👋
--- 
 
 Software engineer [@bitpanda](https://twitter.com/bitpanda)
 
