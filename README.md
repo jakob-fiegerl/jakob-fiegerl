@@ -1,5 +1,8 @@
-Hi, I am Jakob! 👋
+# Hi, I am Jakob! 👋
+-- 
+
+Software engineer [@bitpanda](https://twitter.com/bitpanda)
 
 - 🏢 Currently I am working with Kotlin, Java, Spring, TypeScript, Angular, Swift
-- 📖 Connect with me https://bio.link/thejakeio
+- 📖 Find my social links and blog [here](https://bio.link/thejakeio)
 - 💬 Ask me anything
